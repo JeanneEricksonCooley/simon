@@ -35,8 +35,11 @@
 					</nav><!-- .social-navigation -->
 				<?php endif;
 
-				get_template_part( 'template-parts/footer/site', 'info' );
+				// get_template_part( 'template-parts/footer/site', 'info' );
 				?>
+				<div>
+					<p><a href="http://doghouseweb.com">&copy; DoghouseWeb, 2017</a></p>
+				</div>
 			</div><!-- .wrap -->
 		</footer><!-- #colophon -->
 	</div><!-- .site-content-contain -->
